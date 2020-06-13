@@ -10,4 +10,6 @@ class SharableLinks extends DataTransferObject
     public $facebook;
     public $twitter;
     public $whatsapp;
+    public $snap;
+    public $instagram;
 }
